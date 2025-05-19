@@ -45,8 +45,6 @@ See the `/docs` folder. [Pipeline Scan](https://docs.veracode.com/r/Pipeline_Sca
 To build the container run this:
 ```
 docker pull mariadb:10.6.2
-docker build --no-cache -t verademo .
-```
 
 To run the container for local development run this:
 
